@@ -1,2 +1,2 @@
-# ListaDoblementeEnlazadaCircular
+# ListaDobleCircular
  Actividad realizada en clase
